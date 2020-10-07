@@ -4,3 +4,6 @@
 2.	mongodb+srv://aShakthi:aShakthi123@cluster0.9iinn.azure.mongodb.net/eCommerceApp?retryWrites=true&w=majority
 
 3. 	all configuration are on .env file
+
+"password":"thumula123@t",
+    "email":"thumula@gmail.com"
