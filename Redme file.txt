@@ -1,0 +1,6 @@
+1. 	first- npm install or yarn add
+	second - npm run dev or yarn run dev
+
+2.	mongodb+srv://aShakthi:aShakthi123@cluster0.9iinn.azure.mongodb.net/eCommerceApp?retryWrites=true&w=majority
+
+3. 	all configuration are on .env file
