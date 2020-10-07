@@ -28,7 +28,7 @@ class App{
     private intializeDatabase = async() =>{
         
         try {
-            await mongoose.connect("mongodb://localhost:27017/eCommerce",{ useUnifiedTopology: true,useNewUrlParser: true, useFindAndModify: false });
+            await mongoose.connect(process.env.MONGO_URI,{ useUnifiedTopology: true,useNewUrlParser: true, useFindAndModify: false });
             console.log("mongodb connected");
         } catch (error) {
             console.log(error);
