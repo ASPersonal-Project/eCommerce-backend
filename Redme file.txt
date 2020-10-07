@@ -7,5 +7,8 @@
 
 3. 	all configuration are on .env file
 
+
+This email and password for the login 
+
 password - thumula123@t,
 email - thumula@gmail.com
