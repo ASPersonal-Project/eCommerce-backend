@@ -2,6 +2,8 @@
 	second - npm run dev or yarn run dev
 
 2.	mongodb+srv://aShakthi:aShakthi123@cluster0.9iinn.azure.mongodb.net/eCommerceApp?retryWrites=true&w=majority
+	
+	( I am using the mongodb Atlas)
 
 3. 	all configuration are on .env file
 
