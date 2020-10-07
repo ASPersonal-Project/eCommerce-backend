@@ -5,5 +5,5 @@
 
 3. 	all configuration are on .env file
 
-"password":"thumula123@t",
-    "email":"thumula@gmail.com"
+password - thumula123@t,
+email - thumula@gmail.com
